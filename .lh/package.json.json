@@ -1,0 +1,18 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1692130560702,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1692130560702,
+            "name": "Commit-0",
+            "content": "{\n  \"name\": \"under-development\",\n  \"private\": true,\n  \"version\": \"0.0.0\",\n  // \"type\": \"module\",\n  \"scripts\": {\n    \"dev\": \"vite\",\n    \"build\": \"vite build\",\n    \"preview\": \"vite preview\"\n  },\n  \"devDependencies\": {\n    \"autoprefixer\": \"^10.4.15\",\n    \"postcss\": \"^8.4.27\",\n    \"tailwindcss\": \"^3.3.3\",\n    \"vite\": \"^4.4.5\"\n  }\n}\n"
+        }
+    ]
+}
